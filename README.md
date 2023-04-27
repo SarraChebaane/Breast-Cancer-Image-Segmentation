@@ -7,3 +7,5 @@ Breast cancer is a major public health concern worldwide, and early detection is
 
 ## Data Source:
 The dataset used for this project is the Breast Ultrasound Dataset, which was collected in 2018 and includes ultrasound images of 600 female patients between the ages of 25 and 75. The dataset contains 780 images in PNG format, with an average image size of 500*500 pixels. The images are categorized into three classes: normal, benign, and malignant, and the ground truth images are provided alongside the original images.
+
+For this project i used a dataset from kaggle : https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
